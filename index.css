@@ -70,13 +70,12 @@ nav .start-contact, a:nth-child(5):hover~.animation {
 	left: 470px;
 	background-color: #731abc;
 }
-/*
+
 body{
 	font-size: 12px;
 	font-family: sans-serif;
 	background: #2c3e50;
 }
-*/
 header{
 	font-size: 12px;
 	font-family: sans-serif;
@@ -96,6 +95,11 @@ h1 {
 	text-shadow: 2px 2px 4px #000000;
 	font-family: 'Cherry Swash', cursive;
 }
+h1.x{
+    color: #a968df;
+    margin: 40px 0 40px;
+    text-shadow: 2px 2px 4px #000000;
+}
 
 p {
     position: absolute;
@@ -111,12 +115,22 @@ td.x {
 vertical-align: top;
 font-size: 15px;
 }
+span.w{
+    color: #ecf0f1;
+    margin: 40px 0 40px;
+    text-shadow: 2px 2px 4px #000000;
+}
 span.z {
-    color: #731abc;
-	font-size: 25px;
+    color: #ecf0f1;
+    font-size: 25px;
+    margin: 40px 0 40px;
+    text-shadow: 2px 2px 4px #731abc;
 }
 span.y {
     color: #731abc;
+    font-size: 25px;
+    margin: 40px 0 40px;
+    text-shadow: 2px 2px 4px #000000;
 }
 span.x{
 	background-color: #34495e;
